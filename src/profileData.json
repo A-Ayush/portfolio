@@ -1,0 +1,97 @@
+{
+	"landing": {
+		"firstName": "Ayush",
+		"lastName": " Singh",
+		"phoneNumber": "+91-7007449006",
+		"bio": "Experienced Member Technical with a demonstrated history of working in the non-profit organization management industry. Skilled in Python (Programming Language), C++, Java, HTML, and JavaScript. Strong engineering professional with a Bachelor of Technology - BTech focused in Computer Science from Jaypee University of Engineering and Technology.And looking for an opportunity in Software Development.",
+    	"email": "ayushssingh98@gmail.com",
+    	"linkedin": "www.linkedin.com/in/a-ayush-h/",
+		"github": "github.com/A-Ayush"
+	},
+	"experience": [
+		{
+			"position": "Developer Intern",
+			"organization": "JPMorgan Chase & Co",
+			"aboutWork": "Responsible for building the server-client web application so that it displays a graph that automatically updates as it gets data from the server application.",
+			"fromDate": "April 2020",
+			"toDate": "June 2020 "
+		},
+		{
+			"position": "Developer Intern",
+			"organization": "Team Audit House",
+			"aboutWork": "Responsible for building the end-to-end web application using Django.",
+			"fromDate": "June 2019",
+			"toDate": "August 2019"
+		},
+		{
+			"position": "Online Course",
+			"organization": "Coursera",
+			"aboutWork": "This specialisation Python for everybody course , introduce fundamentals of programming concepts including data structures, networked application prgram interfaces, ans databases, using the Python",
+			"fromDate": "October 2018",
+			"toDate": "January 2019"
+		},
+		{
+			"position": "Programming with C++",
+			"organization": "Coding Ninja",
+			"aboutWork": "This specialisation helps me to learn different concepts of data structures.",
+			"fromDate": "December 2018",
+			"toDate": "January 2019"
+		}
+	],
+	"education": [{
+			"university": "Jaypee University of Engineering and Technology",
+			"degree": "Bachelor of Technology",
+			"gpa": "9.0",
+			"fromDate": "August 2016",
+			"toDate": "Present"
+		}
+	],
+	"skills": [{
+			"name": "HTML"
+		},
+		{
+			"name": "CSS"
+		},
+		{
+			"name": "Javascript"
+		},
+		{
+			"name": "Python"
+		},
+		{
+			"name": "C++"
+		},
+		{
+			"name": "Flask"
+		},
+		{
+			"name": "Django"
+		},
+		{
+			"name": "Spring"
+		}
+	],
+	"interests": {
+		"paragraphOne": "Apart from being a web developer, I enjoy most of my time being outdoors.I love playing Football and Chess.",
+		"paragraphTwo": "When forced indoors, I follow a number of fantasy genre movies and television shows, I spend a large amount of my free time exploring the latest technology advancements in the back-end web development world."
+	},
+	"awards": [{
+			"awardDetail": "Top 100 International Mathematics Olympiad (2014). "
+		},
+		{
+			"awardDetail": "(1stRound qualified) NMTC, RMO (2014)"
+		},
+		{
+			"awardDetail": "National Chess Championship Finalists (2014)."
+		},
+		{
+			"awardDetail": "Won Cryptic Hunt Tournament at college (2017)."
+		},
+		{
+			"awardDetail": "Won Treasure Hunt Tournament at college (2017)."
+		},
+		{
+			"awardDetail": "Won Football league at college."
+		}
+	]
+}
