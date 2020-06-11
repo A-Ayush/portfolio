@@ -26,6 +26,22 @@ class Education extends Component {
               </div>
             ))
           }
+          {
+            this.education.map((data, index) => (
+              <div key={index} className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+                <div className="resume-content">
+                  <h3 className="mb-0">{data.School}</h3>
+                  <div className="subheading mb-3">{data.Academics}</div>
+                  <p>{data.tenth}</p>
+                  <p>{data.twelfth}</p>
+                </div>
+                <div className="resume-date text-md-right">
+                  <span className="text-primary">{data.fromDate1} - {data.toDate1}</span>
+                </div>
+              </div>
+            ))
+          }
+
         </div>
       </section>
     );
